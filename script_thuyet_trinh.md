@@ -505,7 +505,3 @@ Bài báo cáo là kết quả **làm việc nghiêm túc và phối hợp chặ
 ⏸️ Thay mặt toàn thể nhóm, em xin **chân thành cảm ơn cô Đặng Thị Minh Tuấn** đã định hướng và theo dõi, cùng toàn thể các bạn đã chú ý lắng nghe phần thuyết trình về chủ đề *"Quy luật quan hệ sản xuất phù hợp với trình độ lực lượng sản xuất và sự vận dụng ở Việt Nam"*.
 
 Rất mong nhận được những nhận xét, góp ý và câu hỏi từ cô cùng các bạn. **Xin cảm ơn!** 🙏
-
----
-
-> *📝 Tổng cộng: 41 slide | Thời lượng ước tính: 25–35 phút*
