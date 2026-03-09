@@ -1,0 +1,17 @@
+-	Slide 7, phần đối tượng sản xuất ko thấy trong đề cương phần 1.1.2.
+-	Slide 9, tổ chức quản lý (điều phối) ko thấy trong đề cương phần 1.1.3.
+-	Slide 9, phân phối (sản phẩm xh) ko thấy trong đề cương phần 1.1.3.
+(Tóm lại là đề cương phần 1.1.3. tuy có đề cập qua về 3 mặt của quan hệ sản xuất và tầm quan trọng của 3 mặt nhưng chỉ nói về mục sở hữu tlsx, còn 2 cái kia cho ra rìa. Về sau trong phần 2.1. có nói về cả 3 mặt, nhưng nó lại dùng để phân tích những sai lầm về 3 mặt chứ ko giải thích về 3 mặt này).
+-	slide 19: Bình Quân, Cào Bằng Bằng Tem Phiếu (lặp chữ "bằng").
+-	slide 23: Kết Quả Khi Vận Dụng Đúng Quy Luật (slide thì có nhưng đề cương ko có, mà cái này là phần kết luận về mặt số liệu thôi nên đề cương không có cũng không thành vấn đề).
+-	Slide 24: Những mâu thuẫn mới trong quá trình đổi mới (ko có trong đề cương).
+-	Slide 25: Nhìn lại & định hướng tiếp theo (đề cương ko có).
+-	slide 26: Phát Triển Lực Lượng Sản Xuất Hiện Đại (đề cương có nhưng phần nội dung giữa đề cương với slide lại khác nhau. trong đề cương là phần 2.3.1. những chỉ có ý chính về việc nâng cao trình độ khoa học công nghệ là hao hao giống chứ không hoàn toàn trùng về mặt chữ nghĩa)
+-	slide 27, 28: tương tự như slide 26 (đọc sơ qua thì sẽ hiểu ý chính là hao hao giống chứ ko trùng về mặt chữ)
+-	slide 29 (lặp lại về mối quan hệ giữa llsx - qusx. Nhưng ko đổi cũng ko sao vì slide này chủ yếu là nhắc lại để củng cố kiến thức thôi, có thể giữ lại để nói thêm về phần ví dụ cho mn dễ hình dung).
+-	slide 31: Công Cụ Sản Xuất Thời Đại Số (đề cương ko đề cập tới phần hạ tầng đám mây)
+-	slide 32: khi con người bị số hóa chi phối (đề cương ko có)
+-	slide 33: Chu Trình Giá Trị Thặng Dư Trong Nền Kinh Tế Dữ Liệu (đề cương có nói sơ qua nhưng nội dung thì chỉ hao hao giống)
+-	slide 34: Mâu Thuẫn Sở Hữu Trong Kỷ Nguyên Số (đề cương ko có)
+-	slide 35: Vận Dụng Quy Luật Trong Bối Cảnh Cách Mạng Công Nghiệp 4.0 (từ đây trở đi cả 3 giải pháp đưa ra đều không có trong đề cương)
+
